@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1051279817974",
+    "project_id": "cattlemarketing-3042a",
+    "storage_bucket": "cattlemarketing-3042a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051279817974:android:08428219bada60496280d7",
+        "android_client_info": {
+          "package_name": "com.agi.come491_cattle_market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051279817974-iurls4uqrp31d3emtomcnl364eaj2cp0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.agi.come491_cattle_market",
+            "certificate_hash": "c6c3aaab41c6dfa8502a8a0d8db07a36def4b053"
+          }
+        },
+        {
+          "client_id": "1051279817974-qbrp6vvl6e0vk94f5rif05na1vkk14ob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7Uc32Gl9BquW11kvwCzmCA5r6Kh_EAPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051279817974-qbrp6vvl6e0vk94f5rif05na1vkk14ob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
